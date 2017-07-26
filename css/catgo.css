@@ -1,0 +1,51 @@
+.catry {
+    word-spacing: 10px;
+    font-size: 22px;
+    font-weight: 900;
+}
+
+.bor1 {
+    border-width: 2px;
+    border-top: solid 1px black;
+    border-bottom: solid 1px black;
+}
+
+#flash_header2 {
+    width: 20%;
+    height: 20%;
+    border-radius: 5px;
+    padding-top: 15px;
+}
+
+
+.test a {
+    font-weight: 700;
+    font-size: 12px;
+    text-decoration: none;
+    color: white;
+}
+
+.test a:hover {
+    text-decoration: underline;
+    color:coral;
+    
+}
+
+
+#catI:hover {
+    -moz-box-shadow: 0 0 10px #ccc; 
+    -webkit-box-shadow: 0 0 10px #ccc; 
+    box-shadow: 0 0 10px #0095dd;
+    
+}
+
+#non {
+    width: 100%;
+    color: white;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+&#124; {
+    color: aliceblue;
+}
